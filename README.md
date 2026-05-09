@@ -4,6 +4,7 @@ SwiftCart is a full-stack e-commerce web application built using Spring Boot, Re
 The project provides a modern online shopping experience with features like product browsing, cart management, order placement, authentication, and admin product management.
 
 🚀 Features
+
 👤 User Features
 User Registration & Login
 JWT Authentication & Authorization
@@ -16,6 +17,7 @@ View Order History
 Responsive UI
 
 🛠️ Admin Features
+
 Add Products
 Update Products
 Delete Products
@@ -23,6 +25,7 @@ Manage Inventory
 View Orders
 
 🏗️ Tech Stack
+
 Frontend
 React.js
 Axios
@@ -48,8 +51,10 @@ SwiftCart/
 
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone Repository
 git clone https://github.com/Rahulsingh1887/SwiftCart.git
+
 2️⃣ Backend Setup
 Navigate to backend folder
 cd backend
@@ -63,9 +68,8 @@ spring.datasource.password=yourpassword
 Run Backend
 mvn spring-boot:run
 
-Backend runs on:
+Backend runs on: http://localhost:8080
 
-http://localhost:8080
 3️⃣ Frontend Setup
 Navigate to frontend folder
 cd frontend
