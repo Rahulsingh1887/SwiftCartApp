@@ -43,11 +43,11 @@ MySQL
 Project Structure
 
 SwiftCart/
-
+   |
 frontend/          # React Frontend
-
+   |
 backend/           # Spring Boot Backend
-
+   |
 README.md
 
 
