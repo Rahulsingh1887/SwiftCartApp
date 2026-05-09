@@ -49,7 +49,7 @@ SwiftCart/
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/SwiftCart.git
+git clone https://github.com/Rahulsingh1887/SwiftCart.git
 2️⃣ Backend Setup
 Navigate to backend folder
 cd backend
